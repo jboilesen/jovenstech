@@ -2,8 +2,7 @@
 ## Introdução
 O Projeto Jovens Tech visa formar jovens para atuação profissional em TI em suas diversas modalidades e tecnologias. Sendo uma formação abrangente e, ao mesmo tempo, aprofundada, começando do ínício do desenvolvimento histórico e funcional da área de TI até chegar ao desenvolvimento de projetos nos dias de hoje, o projeto Jovens Tech é uma oportunidade ímpar para jovens que buscam reposicionamento e recolocação profissional, gerando assim emprego, renda e impacto social positivo para suas vidas, famílias e comunidades.
 
-## Objetivo
-desenvolver a formação técnica proposta, suas competências básicas necessárias, a relação de trabalho com outros indivíduos, os diferentes níveis de exigências do próprio mercado de trabalho e como solucionar estes e outros desafios do processo de aprendizagem.
+
 
 ## Programa
 Desenvolver e não “alinhar”, porém, necessário avaliar. Essa é a justificativa para aplicação de um curso que coloque o aprendiz com sua educação formal (escolar) e de vida, no centro do processo.
