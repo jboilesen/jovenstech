@@ -31,7 +31,7 @@ Alguns comandos úteis já apresentados em aula:
 ##### Enviar suas alterações salvas para o repositório do projeto no github
 ```git push origin main```
 
-Existem vários outros comandos úteis que por ora não serão abordados por apresentarem maior complexidade. Precisando de ajuda, lembre-se de entrar em contato.
+Existem vários outros comandos úteis que por ora não serão abordados por apresentarem maior complexidade. Precisando de ajuda, lembre-se de entrar em contato - ou sinta-se à vontade para aprender mais [aqui neste link](https://learngitbranching.js.org/?locale=pt_BR).
 
 #### 3. Tutorial inicial dos projetos (React)
 Para realização do tutorial de React, comece [acessando este link](https://nodejs.org/en/download/) e instalando o Node.js.
